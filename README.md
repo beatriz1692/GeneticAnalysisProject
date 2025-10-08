@@ -1,5 +1,3 @@
-Descrição do Projeto
-
 O GeneticAnalysisProject é uma ferramenta em Python para análise clínica de variantes genéticas.
 O programa permite ao usuário:
 -Buscar genes associados a uma doença usando o ClinVar.
